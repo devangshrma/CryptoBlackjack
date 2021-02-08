@@ -1,2 +1,2 @@
 # CryptoBlackjack
-A game of Blackjack powered by Blockchain fundamentals.
+ECE519C course project implemented by a team of three members.
